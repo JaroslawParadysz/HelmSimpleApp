@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  simpleapi:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-12-27T12:28:19.5767111+01:00"
+    description: A Helm chart for SimpleAPI application
+    digest: 5e3591f71b17d818f98a1d0e9dc13f9aa9033d93705217a0cecb881fb88ec2ac
+    name: simpleapi
+    type: application
+    urls:
+    - https://github.com/JaroslawParadysz/HelmSimpleApp.git/simpleapi-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-27T12:28:19.5761286+01:00"
